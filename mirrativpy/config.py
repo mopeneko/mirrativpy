@@ -31,4 +31,4 @@ class Config:
 
     BUY_AVATAR = "/api/avatar/purchase_avatars"
 
-    UPDAATE_AVATAR = "/api/closet/update_closet_avatar"
+    UPDATE_AVATAR = "/api/closet/update_closet_avatar"
