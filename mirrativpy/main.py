@@ -70,6 +70,7 @@ class Mirrativ:
         raise Exception(f"Failed with status_code {req.status_code}")
 
     def join_live(self, live_id: str):
+        # 参加通知がこない
         req = self.session.get(
             Config.HOST_URL + Config.LIVE,
             params={"live_id": live_id}
