@@ -2,4 +2,4 @@
 unofficial api for Mirrativ
 
 
-don't use this for dos or trol and so on!!
+don't abuse this for dos or trol and so on!!
